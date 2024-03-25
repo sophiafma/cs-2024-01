@@ -19,7 +19,7 @@ Critérios para uma API ser considerada do tipo Restful:
 * Código sob Demanda (Opcional): Permite enviar código executável do servidor para o cliente, ampliando a funcionalidade.
 * Interface Uniforme: Inclui identificação clara de recursos, representações manipuláveis pelo cliente, mensagens autodescritivas e uso de hipertexto/hipermídia para a navegação.
 
-  ### Referências
-  * https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api
-  * https://www.redhat.com/pt-br/topics/api/what-are-application-programming-interface
-  * https://www.redhat.com/pt-br/topics/integration/whats-the-difference-between-soap-rest
+### Referências
+* https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api
+* https://www.redhat.com/pt-br/topics/api/what-are-application-programming-interface
+* https://www.redhat.com/pt-br/topics/integration/whats-the-difference-between-soap-rest
