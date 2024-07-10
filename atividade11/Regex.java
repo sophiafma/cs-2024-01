@@ -3,7 +3,7 @@ package atividade11;
 public class Regex { 
  
     public static void main(String[] args) {
-        System.out.println(" Teste de login: ");
+        System.out.println("Teste de login: ");
         System.out.println("Apenas letras: " + validarLogin("sophia"));
         System.out.println("Apenas numeros: " + validarLogin("0000000"));
         System.out.println("Apenas caracteres especiais: " + validarLogin("******"));
